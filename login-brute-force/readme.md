@@ -1,0 +1,1 @@
+python ./SecList/run.py -> admin -> shadow 
